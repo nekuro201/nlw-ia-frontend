@@ -2,7 +2,7 @@ export function App() {
 
   return (
     <div>
-      hello world last 6
+      hello world 2
     </div>
   )
 }

@@ -1,8 +1,8 @@
+import { Button } from "./components/ui/button";
+
 export function App() {
 
   return (
-    <div>
-      hello world 2
-    </div>
+    <Button>Teste</Button>
   )
 }
